@@ -1,6 +1,4 @@
 streamlit
-pytesseract
-pillow
+pdfplumber
 deep-translator
-pdf2image
 python-docx
