@@ -1,6 +1,6 @@
 streamlit
 pytesseract
 pillow
-googletrans==4.0.0-rc1
+deep-translator
 pdf2image
 python-docx
